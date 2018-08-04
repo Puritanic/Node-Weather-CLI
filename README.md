@@ -4,14 +4,18 @@ Simple weather app build with Node.js
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Clone this repository and install dependencies with `npm install`. You can run the app with `node app.js` command, and you will get the list of available command options. You can always run node app.js [command] --help if you need help with any command.
+
+## Commands
+
+-   `address` - Location to fetch weather for, can be address, zip number, name of the city or name of the state.
 
 ### Prerequisites
 
 What things you need to install the software and how to install them
 
 -   `node`
--   `npm || yarn`
+-   `npm`
 
 ### APIs used
 
@@ -20,7 +24,7 @@ What things you need to install the software and how to install them
 
 ## Built With
 
--   [Node](http://www.nodejs.org) - The web framework used
+-   [Node](http://www.nodejs.org) - Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine.
 
 ## Contributing
 
