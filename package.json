@@ -1,0 +1,22 @@
+{
+  "name": "y",
+  "version": "0.0.1",
+  "description": "Simple node weather app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "?.git"
+  },
+  "keywords": [
+    "nodejs",
+    "weather"
+  ],
+  "author": "Darko Tasevski <darktasevski@gmail.com> (dtasevski.surge.sh/)",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.87.0"
+  }
+}
